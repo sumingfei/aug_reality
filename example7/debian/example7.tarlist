@@ -1,0 +1,6 @@
+755 root root . usr /
+755 root root . usr/bin /
+755 root root . usr/local /
+755 root root . usr/local/bin /
+755 root root . usr/local/bin/example7 debian/example7/usr/local/bin/example7
+755 root root . usr/sbin /
