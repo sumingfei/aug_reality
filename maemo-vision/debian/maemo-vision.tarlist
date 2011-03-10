@@ -1,0 +1,6 @@
+755 root root . usr /
+755 root root . usr/bin /
+755 root root . usr/local /
+755 root root . usr/local/bin /
+755 root root . usr/local/bin/maemo-vision debian/maemo-vision/usr/local/bin/maemo-vision
+755 root root . usr/sbin /
